@@ -1,1 +1,6 @@
-This is my readme file taht I will add to later
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="A Simpson's like art collage " src="YOUR-DEFAULT-IMAGE">
+</picture>
+
